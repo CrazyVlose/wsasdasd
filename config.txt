@@ -1,4 +1,4 @@
-token=NTAyMDk5Mjk1ODY1MTQzMjk3.Dqi__w.NE29Bf-ZWNVRlAl0RivrKHHlHnQ
+token=NTA4MjkwNTU3NTYzMzcxNTQy.Dr9Gqg.gD7sTWvM8Wba7UhNvWmRKAmWxNg
 owner=485380710656507914
 prefix=3
 game=Type 3help
